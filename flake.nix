@@ -8,7 +8,7 @@
     {
       templates = {
         default = {
-          path = ./templates/flake;
+          path = ./template;
           description = "nix flake new -t github:nix-community/nix-direnv .";
         };
       };

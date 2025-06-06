@@ -2,7 +2,7 @@
   description = "A basic flake with a shell";
   inputs = {
     nixpkgs = {
-      url = "github:NixOS/nixpkgs/asd";
+      url = "github:NixOS/nixpkgs/nixos-25.05";
     };
     systems = {
       url = "github:nix-systems/default";
